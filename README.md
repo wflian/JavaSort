@@ -7,7 +7,9 @@
 #### 1. 冒泡排序
 
 * 原理图
+
 ![image](https://github.com/wflian/Sort/blob/master/img/img%20BubbleSort.jpeg)
+
 * 理解
 
 通过重复地遍历要排序的列表，比较每对相邻的项目，并在顺序错误的情况下交换它们。
@@ -15,7 +17,9 @@
 #### 2、选择排序
 
 * 原理图
-![image](https://github.com/wflian/Sort/blob/master/img/img%20BubbleSort.jpeg)
+
+![image](https://github.com/wflian/Sort/blob/master/img/img_%20InsertionSort.jpeg)
+
 * 理解
 
 内部循环查找下一个最小（或最大）值，外部循环将该值放入其适当的位置。
@@ -31,8 +35,10 @@
 #### 3、插入排序
 
 * 原理图
-f792a785202d415e9de57ce32790cdf5.jpeg
-理解
+
+![image](https://github.com/wflian/Sort/blob/master/img/img_%20MergeSort.jpeg)
+
+* 理解
 每一步将一个待排序的记录，插入到前面已经排好序的有序序列中去，直到插完所有元素为止。
 
 
@@ -40,7 +46,7 @@ f792a785202d415e9de57ce32790cdf5.jpeg
 
 * 原理图
 
-![9b15386c1269571fc0ee46af439af274.jpeg](evernotecid://B64F8E3A-35B0-415A-ACA6-B52DBA478C01/appyinxiangcom/23468447/ENResource/p4)
+![image](https://github.com/wflian/Sort/blob/master/img/img_%20QuickSort.jpeg)
 
 * 理解
 
@@ -49,10 +55,10 @@ f792a785202d415e9de57ce32790cdf5.jpeg
 
 * 原理图
 
-![f2fb01156222aec5af29bc0fafd53f33.jpeg](evernotecid://B64F8E3A-35B0-415A-ACA6-B52DBA478C01/appyinxiangcom/23468447/ENResource/p5)
+![image](https://github.com/wflian/Sort/blob/master/img/img_%20SelectionSort.jpeg)
 
 * 理解
 
 将待排序的数列分成若干个长度为1的子数列，然后将这些数列两两合并；得到若干个长度为2的有序数列，再将这些数列两两合并；得到若干个长度为4的有序数列，再将它们两两合并；直接合并成一个数列为止。
 ## 常见排序算法复杂度
-![8df6e322f6d562a058e688a7cb58ad98.jpeg](evernotecid://B64F8E3A-35B0-415A-ACA6-B52DBA478C01/appyinxiangcom/23468447/ENResource/p6)
+![image](https://github.com/wflian/Sort/blob/master/img/img_SortSummary.jpeg)
