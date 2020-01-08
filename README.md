@@ -7,8 +7,7 @@
 #### 1. 冒泡排序
 
 * 原理图
-![ba93433b109571ab1fa7d3dc2761d0e1.jpeg](evernotecid://B64F8E3A-35B0-415A-ACA6-B52DBA478C01/appyinxiangcom/23468447/ENResource/p1)
-
+![image](https://github.com/xxx/xx.png)
 * 理解
 
 通过重复地遍历要排序的列表，比较每对相邻的项目，并在顺序错误的情况下交换它们。
