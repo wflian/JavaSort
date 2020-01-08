@@ -7,7 +7,7 @@
 #### 1. 冒泡排序
 
 * 原理图
-![image](https://github.com/xxx/xx.png)
+![image](https://github.com/wflian/Sort/blob/master/img/img%20BubbleSort.jpeg)
 * 理解
 
 通过重复地遍历要排序的列表，比较每对相邻的项目，并在顺序错误的情况下交换它们。
