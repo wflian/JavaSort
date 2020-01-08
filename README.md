@@ -15,8 +15,7 @@
 #### 2、选择排序
 
 * 原理图
-![4e8f9cb57040c122c2cc9c7a39e60548.jpeg](evernotecid://B64F8E3A-35B0-415A-ACA6-B52DBA478C01/appyinxiangcom/23468447/ENResource/p2)
-
+![image](https://github.com/wflian/Sort/blob/master/img/img%20BubbleSort.jpeg)
 * 理解
 
 内部循环查找下一个最小（或最大）值，外部循环将该值放入其适当的位置。
