@@ -1,5 +1,6 @@
 /**
  * 冒泡排序
+ * 通过重复地遍历要排序的列表，比较每对相邻的项目，并在顺序错误的情况下交换它们。
  */
 public class BubbleSort {
     public static void main(String[] args) {
@@ -31,7 +32,6 @@ public class BubbleSort {
     }
 
     private static void printNumbers(int[] input) {
-
         for (int i = 0; i < input.length; i++) {
             System.out.print(input[i] + ", ");
         }
